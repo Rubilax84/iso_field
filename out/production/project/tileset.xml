@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset>
+	<row>
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="1" />
+		<tile type="1" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+	</row>
+	<row>
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="1" />
+		<tile type="1" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+	</row>
+	<row>
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+	</row>
+	<row>
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="2" />
+		<tile type="2" />
+	</row>
+	<row>
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="3" />
+		<tile type="3" />
+	</row>
+	<row>
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="1" />
+		<tile type="1" />
+		<tile type="5" />
+		<tile type="5" />
+		<tile type="5" />
+	</row>
+	<row>
+		<tile type="1" />
+		<tile type="0" />
+		<tile type="5" />
+		<tile type="1" />
+		<tile type="0" />
+		<tile type="5" />
+		<tile type="4" />
+		<tile type="5" />
+	</row>
+	<row>
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="0" />
+		<tile type="4" />
+		<tile type="4" />
+		<tile type="4" />
+	</row>
+</tileset>
